@@ -1,7 +1,10 @@
 // src/App.js
 import React from 'react';
 import Layout from './Components/Layout';
-import { CareerList } from './Components/CareerList';
+// filepath: /Users/admin/Documents/student-future/error-solve/src/App.jsx
+// ...existing code...
+import CareerList from './Components/CareerList';
+// ...existing code...
 import ReviewList from './Components/ReviewList';
 import About from './Pages/About';
 import Contact from './Pages/Contact';
